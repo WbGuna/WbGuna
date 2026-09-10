@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🚀 WbGuna
 
-<!--
-**WbGuna/WbGuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dev brabo. Top das galáxias. Sobrenatural da dinastia Shing. 👾✨
 
-Here are some ideas to get you started:
+```bash
+> building elegant solutions | shipping with style | learning every day
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Sobre mim
+
+- 💻 Desenvolvedor apaixonado por tecnologia, código limpo e desafios grandes
+- ⚡ Curto transformar ideias em produtos reais
+- 🧠 Sempre estudando, testando e evoluindo
+- 🔥 Foco em performance, qualidade e experiência do usuário
+
+### 🛠️ Stack
+
+```txt
+Frontend : React • Next.js • TypeScript • Tailwind CSS
+Backend  : Node.js • NestJS • Express
+DB       : PostgreSQL • MongoDB • Redis
+Tools    : Git • Docker • Linux • VS Code
+```
+
+### 📈 Status do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WbGuna&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WbGuna&layout=compact&theme=radical)
+
+### 🌌 Motto
+
+> "No caos do código, eu viro lenda."
+
+---
+
+<p align="center">
+  Feito com orgulho, estilo e um pouco de caos controlado.
+</p>
